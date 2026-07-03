@@ -1,5 +1,4 @@
 https://script.google.com/macros/s/AKfycbw-Exqe8oC6TOrGFNUgHB9EZlW5QrIm1fj0yb-foa-9mXOPbIX8h807ay83Vy5i__oU-A/exec
-
 let currentLang = localStorage.getItem("favLang") || "ar";
 let currentTheme = localStorage.getItem("favTheme") || "light";
 
