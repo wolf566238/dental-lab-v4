@@ -1,4 +1,4 @@
-https://script.google.com/macros/s/AKfycbw-Exqe8oC6TOrGFNUgHB9EZlW5QrIm1fj0yb-foa-9mXOPbIX8h807ay83Vy5i__oU-A/exec
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwYgGG0r8Oa9r4fSg_lY9wT9iIscN_pI5P37Ua9hNqM8XUv-7oGco8_O52fMskzX_mz/exec";
 let currentLang = localStorage.getItem("favLang") || "ar";
 let currentTheme = localStorage.getItem("favTheme") || "light";
 
